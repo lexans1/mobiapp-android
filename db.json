@@ -2,13 +2,13 @@
   "statut_api": {
   },
   "connexion": {
-    "jeton_jwt_sb": "eyJ0eXAiOiJKV1QiLCJhb",
-    "date_heure_derniere_connexion": "2017-10-30T15:27:47.000Z",
-    "nom": "FAKENOM",
-    "prenom": "PRENOM",
-    "civilite": "MME",
-    "indicateur_mdp_expire": false
-  },
+  "contexte": "mock",
+  "identifiant_connexion": "565656",
+  "mot_de_passe": "xxxxx",
+  "date_naissance": "2018-02-23",
+  "departement_naissance": "72",
+  "jeton_captcha": "ddgeg59d5gges"
+},
   "comptes": [
     {
       "numero_compte": "99",
