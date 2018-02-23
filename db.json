@@ -1,5 +1,5 @@
 {
-  "/v1/statut_api": {
+  "v1/statut_api": {
   },
   "/v1/connexion": {
     "jeton_jwt_sb": "eyJ0eXAiOiJKV1QiLCJhb",
@@ -9,7 +9,7 @@
     "civilite": "MME",
     "indicateur_mdp_expire": false
   },
-  "/v1/comptes": [
+  "v1/comptes": [
     {
       "numero_compte": "99",
       "intitule_compte": "M FAKENOM PRENOM",
