@@ -1,7 +1,7 @@
 {
-  "statut_api": {
+  "/v1/statut_api": {
   },
-  "connexion": {
+  "/v1/connexion": {
     "jeton_jwt_sb": "eyJ0eXAiOiJKV1QiLCJhb",
     "date_heure_derniere_connexion": "2017-10-30T15:27:47.000Z",
     "nom": "FAKENOM",
@@ -9,7 +9,7 @@
     "civilite": "MME",
     "indicateur_mdp_expire": false
   },
-  "comptes": [
+  "/v1/comptes": [
     {
       "numero_compte": "99",
       "intitule_compte": "M FAKENOM PRENOM",
