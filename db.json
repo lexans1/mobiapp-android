@@ -1,0 +1,1050 @@
+{
+  "codeCIS": "67210479",
+  "denomination": "DOLIPRANE 300 mg, suppositoire",
+  "formePharmaceutique": "suppositoire",
+  "homeopathie": false,
+  "voiesAdministration": [
+    "rectale"
+  ],
+  "statutAdministratifAMM": "Autorisation active",
+  "typeProcedureAMM": "Procédure nationale",
+  "etatCommercialisation": true,
+  "dateAMM": "1998-08-17",
+  "statutBDM": "RAS",
+  "numeroAutorisationEuropeenne": "",
+  "titulaires": [
+    "SANOFI AVENTIS FRANCE"
+  ],
+  "surveillanceRenforcee": false,
+  "indicationsTherapeutiques": "Traitement symptomatique des douleurs d'intensité légère à modérée et/ou des états fébriles.<br><i>Plus d'information <a href=\"http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67210479&typedoc=R\" target=\"_blank\">en cliquant ici</a></i>",
+  "presentations": [
+    {
+      "codeCIP7": "3481017",
+      "libelle": "plaquette(s) thermoformée(s) PVC polyéthylène de 10 suppositoire(s)",
+      "statutAdministratif": "ACTIVE",
+      "etatCommercialisationAMM": "Déclaration de commercialisation",
+      "dateDeclarationCommercialisation": "1999-09-01",
+      "codeCIP13": "3400934810176",
+      "agrementCollectivites": true,
+      "tauxRemboursement": [
+        "65%"
+      ],
+      "prix": 2.26,
+      "indicationsRemboursement": ""
+    }
+  ],
+  "compositions": [
+    {
+      "designationElementPharmaceutique": "suppositoire",
+      "referenceDosage": "un suppositoire",
+      "substancesActives": [
+        {
+          "codeSubstance": "02202",
+          "denominationSubstance": "PARACÉTAMOL",
+          "dosageSubstance": "300 mg",
+          "interactions": [
+            {
+              "id": "2027",
+              "idFamille1": "397",
+              "famille1": "paracetamol",
+              "idFamille2": "74",
+              "famille2": "antivitamines k"
+            }
+          ],
+          "fractionsTherapeutiques": []
+        }
+      ]
+    }
+  ],
+  "avisSMR": [
+    {
+      "codeDossierHAS": "CT-14040",
+      "motifEvaluation": "Renouvellement d'inscription (CT)",
+      "dateAvisCommissionTransparence": "2015-04-01",
+      "valeurSMR": "Important",
+      "libelleSMR": "Le service médical rendu par les spécialités DOLIPRANE, GELUPRANE et PARACETAMOL ZENTIVA reste important dans les indications de l’AMM.",
+      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_2027377"
+    }
+  ],
+  "avisASMR": [],
+  "conditionsPrescriptionDelivrance": [],
+  "infosGenerique": null,
+  "infosImportantes": [],
+  "familleComposition": [
+    {
+      "codeCIS": "61617685",
+      "denomination": "ACTIFED ETATS GRIPPAUX, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "60206332",
+      "denomination": "ACTIFED RHUME JOUR ET NUIT, comprimé"
+    },
+    {
+      "codeCIS": "69928332",
+      "denomination": "ACTIFED RHUME, comprimé"
+    },
+    {
+      "codeCIS": "60997900",
+      "denomination": "ACTIFEDSIGN, gélule"
+    },
+    {
+      "codeCIS": "62040674",
+      "denomination": "ACTRON, comprimé effervescent"
+    },
+    {
+      "codeCIS": "62934247",
+      "denomination": "ALGICALM 400 mg/25 mg, comprimé"
+    },
+    {
+      "codeCIS": "65322262",
+      "denomination": "ALGISEDAL, comprimé"
+    },
+    {
+      "codeCIS": "62981414",
+      "denomination": "ALGODOL 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "67524202",
+      "denomination": "ALGODOL CAFEINE, comprimé"
+    },
+    {
+      "codeCIS": "65712593",
+      "denomination": "ALGOTROPYL, suppositoire"
+    },
+    {
+      "codeCIS": "61964091",
+      "denomination": "CEFALINE HAUTH 500 mg/50 mg, comprimé pelliculé sécable"
+    },
+    {
+      "codeCIS": "64822656",
+      "denomination": "CEFALINE HAUTH, poudre orale en sachet (au paracétamol)"
+    },
+    {
+      "codeCIS": "63332717",
+      "denomination": "CLARADOL 500 mg CAFEINE, comprimé"
+    },
+    {
+      "codeCIS": "65018843",
+      "denomination": "CLARADOL 500 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "67458001",
+      "denomination": "CLARADOL 500 mg, comprimé sécable"
+    },
+    {
+      "codeCIS": "62074559",
+      "denomination": "CLARADOL CAFEINE 500 mg/50 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "64226827",
+      "denomination": "CLARADOL CODEINE 500 mg/20 mg, comprimé"
+    },
+    {
+      "codeCIS": "60904643",
+      "denomination": "CODOLIPRANE 500 mg/30 mg, comprimé"
+    },
+    {
+      "codeCIS": "62351650",
+      "denomination": "CODOLIPRANE 500 mg/30 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "64406362",
+      "denomination": "CODOLIPRANE ADULTES 400 mg/20 mg, comprimé sécable"
+    },
+    {
+      "codeCIS": "63896283",
+      "denomination": "COMPRALGYL 400 mg/20 mg, comprimé sécable"
+    },
+    {
+      "codeCIS": "61293112",
+      "denomination": "COQUELUSEDAL PARACETAMOL 100 mg, suppositoire"
+    },
+    {
+      "codeCIS": "63208057",
+      "denomination": "COQUELUSEDAL PARACETAMOL 250 mg, suppositoire"
+    },
+    {
+      "codeCIS": "64380679",
+      "denomination": "COQUELUSEDAL PARACETAMOL 500 mg, suppositoire"
+    },
+    {
+      "codeCIS": "63264636",
+      "denomination": "DAFALGAN 1 g, comprimé effervescent"
+    },
+    {
+      "codeCIS": "62887947",
+      "denomination": "DAFALGAN 1 g, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "64796108",
+      "denomination": "DAFALGAN 150 mg, poudre effervescente pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "64675665",
+      "denomination": "DAFALGAN 150 mg, suppositoire"
+    },
+    {
+      "codeCIS": "66093336",
+      "denomination": "DAFALGAN 250 mg, poudre effervescente pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "61128406",
+      "denomination": "DAFALGAN 300 mg, suppositoire"
+    },
+    {
+      "codeCIS": "67721153",
+      "denomination": "DAFALGAN 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "62815944",
+      "denomination": "DAFALGAN 500 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "65609611",
+      "denomination": "DAFALGAN 500 mg, gélule"
+    },
+    {
+      "codeCIS": "67617578",
+      "denomination": "DAFALGAN 80 mg, poudre effervescente pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "60298455",
+      "denomination": "DAFALGAN 80 mg, suppositoire"
+    },
+    {
+      "codeCIS": "69085818",
+      "denomination": "DAFALGAN ADULTES 600 mg, suppositoire"
+    },
+    {
+      "codeCIS": "61109911",
+      "denomination": "DAFALGAN CODEINE, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "66003374",
+      "denomination": "DAFALGAN CODEINE, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "63390065",
+      "denomination": "DAFALGAN PEDIATRIQUE 3 POUR CENT, solution buvable"
+    },
+    {
+      "codeCIS": "60442980",
+      "denomination": "DAFALGANHOP 1 g, comprimé effervescent"
+    },
+    {
+      "codeCIS": "69742445",
+      "denomination": "DOLI ETAT GRIPPAL PARACETAMOL/VITAMINE C/PHENIRAMINE 500 mg/200 mg/25 mg, poudre pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "68998071",
+      "denomination": "DOLIDON 500 mg/50 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "64793681",
+      "denomination": "DOLIPRANE 100 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "66057393",
+      "denomination": "DOLIPRANE 100 mg, suppositoire sécable"
+    },
+    {
+      "codeCIS": "60234100",
+      "denomination": "DOLIPRANE 1000 mg, comprimé"
+    },
+    {
+      "codeCIS": "66567738",
+      "denomination": "DOLIPRANE 1000 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "69309629",
+      "denomination": "DOLIPRANE 1000 mg, gélule"
+    },
+    {
+      "codeCIS": "61681702",
+      "denomination": "DOLIPRANE 1000 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "65103838",
+      "denomination": "DOLIPRANE 150 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "60310861",
+      "denomination": "DOLIPRANE 150 mg, suppositoire"
+    },
+    {
+      "codeCIS": "66477582",
+      "denomination": "DOLIPRANE 2,4 POUR CENT SANS SUCRE, suspension buvable édulcorée au maltitol liquide et au sorbitol"
+    },
+    {
+      "codeCIS": "68794211",
+      "denomination": "DOLIPRANE 200 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "64361369",
+      "denomination": "DOLIPRANE 200 mg, suppositoire"
+    },
+    {
+      "codeCIS": "69002078",
+      "denomination": "DOLIPRANE 300 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "63368332",
+      "denomination": "DOLIPRANE 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "65196753",
+      "denomination": "DOLIPRANE 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "67119691",
+      "denomination": "DOLIPRANE 500 mg, gélule"
+    },
+    {
+      "codeCIS": "66731536",
+      "denomination": "DOLIPRANE 500 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "67488731",
+      "denomination": "DOLIPRANE ADULTES 1000 mg, suppositoire"
+    },
+    {
+      "codeCIS": "64168434",
+      "denomination": "DOLIPRANE CODEINE 400 mg/20 mg, comprimé sécable"
+    },
+    {
+      "codeCIS": "61903804",
+      "denomination": "DOLIPRANECAPS 1000 mg, gélule"
+    },
+    {
+      "codeCIS": "61735267",
+      "denomination": "DOLIPRANELIQUIZ 200 mg SANS SUCRE, suspension buvable en sachet édulcorée au maltitol liquide et au sorbitol"
+    },
+    {
+      "codeCIS": "68513251",
+      "denomination": "DOLIPRANELIQUIZ 300 mg SANS SUCRE, suspension buvable en sachet édulcorée au maltitol liquide et au sorbitol"
+    },
+    {
+      "codeCIS": "67747372",
+      "denomination": "DOLIPRANEORODOZ 500 mg, comprimé orodispersible"
+    },
+    {
+      "codeCIS": "60641854",
+      "denomination": "DOLIPRANETABS 1000 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "66185425",
+      "denomination": "DOLIPRANETABS 500 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "69636399",
+      "denomination": "DOLIPRANEVITAMINEC 500 mg/150 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "65089833",
+      "denomination": "DOLIRHUME PARACETAMOL ET PSEUDOEPHEDRINE 500 mg/30 mg, comprimé"
+    },
+    {
+      "codeCIS": "60028495",
+      "denomination": "DOLIRHUMEPRO PARACETAMOL, PSEUDOEPHEDRINE ET DOXYLAMINE, comprimé"
+    },
+    {
+      "codeCIS": "61162305",
+      "denomination": "DOLKO 1 g, comprimé sécable"
+    },
+    {
+      "codeCIS": "68691955",
+      "denomination": "DOLKO 500 mg, comprimé sécable"
+    },
+    {
+      "codeCIS": "66813008",
+      "denomination": "DOLKO 500 mg, poudre pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "63019537",
+      "denomination": "DOLKO 60 mg/2 ml, solution buvable en flacon"
+    },
+    {
+      "codeCIS": "60818799",
+      "denomination": "DOLSTIC 100 mg/ml, solution buvable"
+    },
+    {
+      "codeCIS": "64445721",
+      "denomination": "DOLSTIC 100 mg/ml, solution buvable en gouttes"
+    },
+    {
+      "codeCIS": "68905163",
+      "denomination": "DRILL RHUME, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "60025403",
+      "denomination": "EFFERALGAN 1 g, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "61016204",
+      "denomination": "EFFERALGAN 1000 mg, granulés en sachet"
+    },
+    {
+      "codeCIS": "63247996",
+      "denomination": "EFFERALGAN 250 mg, granulés en sachet"
+    },
+    {
+      "codeCIS": "69172447",
+      "denomination": "EFFERALGAN 500 mg, comprimé orodispersible"
+    },
+    {
+      "codeCIS": "67443191",
+      "denomination": "EFFERALGAN 500 mg, granulés en sachet"
+    },
+    {
+      "codeCIS": "62947643",
+      "denomination": "EFFERALGAN VITAMINE C 500 mg/200 mg , comprimé effervescent"
+    },
+    {
+      "codeCIS": "67058605",
+      "denomination": "EFFERALGANMED 1 g, comprimé effervescent"
+    },
+    {
+      "codeCIS": "67326925",
+      "denomination": "EFFERALGANMED 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "68605422",
+      "denomination": "EFFERALGANMED 500 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "67084685",
+      "denomination": "EXCEDRINIL 250 mg/250 mg/65 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "69738404",
+      "denomination": "FERVEX ETAT GRIPPAL PARACETAMOL/VITAMINE C/PHENIRAMINE ADULTES FRAMBOISE, granulés pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "66947007",
+      "denomination": "FERVEX ETAT GRIPPAL PARACETAMOL/VITAMINE C/PHENIRAMINE ADULTES SANS SUCRE, granulé pour solution buvable en sachet édulcoré à l’aspartam"
+    },
+    {
+      "codeCIS": "69329731",
+      "denomination": "FERVEX ETAT GRIPPAL PARACETAMOL/VITAMINE C/PHENIRAMINE ADULTES, granulés pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "66865154",
+      "denomination": "FERVEX RHUME JOUR ET NUIT, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "66418648",
+      "denomination": "FERVEX RHUME PARACETAMOL/VITAMINE C/PHENIRAMINE ENFANTS, granulés pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "61697158",
+      "denomination": "FLUSTIMEX, poudre pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "67791707",
+      "denomination": "GAOSEDAL CODEINE, comprimé"
+    },
+    {
+      "codeCIS": "61908071",
+      "denomination": "GELUPRANE 500 mg, gélule"
+    },
+    {
+      "codeCIS": "63713344",
+      "denomination": "HUMEX RHUME, comprimé et gélule"
+    },
+    {
+      "codeCIS": "61541629",
+      "denomination": "HUMEXLIB ETAT GRIPPAL PARACETAMOL/VITAMINE C/PHENIRAMINE 500 mg/200 mg/25 mg, poudre pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "68144352",
+      "denomination": "HUMEXLIB PARACETAMOL CHLORPHENAMINE 500 mg/4 mg, gélule"
+    },
+    {
+      "codeCIS": "60365078",
+      "denomination": "IXPRIM 37,5 mg/325 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "61137241",
+      "denomination": "IXPRIM 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "67613291",
+      "denomination": "IZALGI 500 mg/25 mg, gélule"
+    },
+    {
+      "codeCIS": "62110311",
+      "denomination": "KLIPAL CODEINE 300 mg/25 mg, comprimé"
+    },
+    {
+      "codeCIS": "69722236",
+      "denomination": "KLIPAL CODEINE 600 mg/50 mg, comprimé"
+    },
+    {
+      "codeCIS": "62689634",
+      "denomination": "LAMALINE, gélule"
+    },
+    {
+      "codeCIS": "62672962",
+      "denomination": "LAMALINE, suppositoire"
+    },
+    {
+      "codeCIS": "68457482",
+      "denomination": "LINDILANE 400 mg/25 mg, comprimé"
+    },
+    {
+      "codeCIS": "65284993",
+      "denomination": "MIGRALGINE, gélule"
+    },
+    {
+      "codeCIS": "64849094",
+      "denomination": "NOVACETOL (ASPIRINE PARACETAMOL), comprimé"
+    },
+    {
+      "codeCIS": "62426163",
+      "denomination": "PANADOL 500 mg, comprimé pelliculé sécable"
+    },
+    {
+      "codeCIS": "69831335",
+      "denomination": "PARACETAMOL ACTAVIS 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "61754805",
+      "denomination": "PARACETAMOL AHCL 1 g, comprimé effervescent"
+    },
+    {
+      "codeCIS": "61158602",
+      "denomination": "PARACETAMOL ALMUS 1 g, comprimé"
+    },
+    {
+      "codeCIS": "63734096",
+      "denomination": "PARACETAMOL ALMUS 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "69159193",
+      "denomination": "PARACETAMOL ALTER 1 g, comprimé"
+    },
+    {
+      "codeCIS": "69767594",
+      "denomination": "PARACETAMOL ARROW 1 g, comprimé"
+    },
+    {
+      "codeCIS": "66280930",
+      "denomination": "PARACETAMOL ARROW 1 g, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "68429807",
+      "denomination": "PARACETAMOL ARROW 10 mg/ml, solution pour perfusion"
+    },
+    {
+      "codeCIS": "64849984",
+      "denomination": "PARACETAMOL ARROW 1000 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "68234981",
+      "denomination": "PARACETAMOL ARROW 300 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "66123644",
+      "denomination": "PARACETAMOL ARROW 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "65085849",
+      "denomination": "PARACETAMOL ARROW 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "68849298",
+      "denomination": "PARACETAMOL ARROW 500 mg, gélule"
+    },
+    {
+      "codeCIS": "64762433",
+      "denomination": "PARACETAMOL ARROW 500 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "66479715",
+      "denomination": "PARACETAMOL ARROW CONSEIL 1 g, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "68803920",
+      "denomination": "PARACETAMOL ARROW CONSEIL 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "67356904",
+      "denomination": "PARACETAMOL ARROW CONSEIL 500 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "61304982",
+      "denomination": "PARACETAMOL B BRAUN 10 mg/ml, solution pour perfusion"
+    },
+    {
+      "codeCIS": "68787715",
+      "denomination": "PARACETAMOL BIOGARAN 1 g, comprimé"
+    },
+    {
+      "codeCIS": "67217826",
+      "denomination": "PARACETAMOL BIOGARAN 1 g, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "66142228",
+      "denomination": "PARACETAMOL BIOGARAN 1000 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "61400596",
+      "denomination": "PARACETAMOL BIOGARAN 300 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "66661454",
+      "denomination": "PARACETAMOL BIOGARAN 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "60170046",
+      "denomination": "PARACETAMOL BIOGARAN 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "65701216",
+      "denomination": "PARACETAMOL BIOGARAN 500 mg, gélule"
+    },
+    {
+      "codeCIS": "69867452",
+      "denomination": "PARACETAMOL BIOGARAN 500 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "61784054",
+      "denomination": "PARACETAMOL CODEINE ARROW 400 mg/20 mg, comprimé sécable"
+    },
+    {
+      "codeCIS": "62771825",
+      "denomination": "PARACETAMOL CODEINE ARROW 500 mg/30 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "69355295",
+      "denomination": "PARACETAMOL CODEINE BIOGARAN 500 mg/30 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "67806479",
+      "denomination": "PARACETAMOL CODEINE CRISTERS 500 mg/30 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "62541023",
+      "denomination": "PARACETAMOL CODEINE EG 500 mg/30 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "69549916",
+      "denomination": "PARACETAMOL CODEINE MYLAN 500 mg/30 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "65451798",
+      "denomination": "PARACETAMOL CODEINE REF 500 mg/30 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "61730170",
+      "denomination": "PARACETAMOL CODEINE SANDOZ 500 mg/30 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "61943097",
+      "denomination": "PARACETAMOL CODEINE TEVA 500 mg/30 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "64436633",
+      "denomination": "PARACETAMOL CRISTERS 1 g, comprimé sécable"
+    },
+    {
+      "codeCIS": "64503085",
+      "denomination": "PARACETAMOL CRISTERS 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "69411153",
+      "denomination": "PARACETAMOL CRISTERS 500 mg, gélule"
+    },
+    {
+      "codeCIS": "62772966",
+      "denomination": "PARACETAMOL EG 1 g, comprimé"
+    },
+    {
+      "codeCIS": "67755020",
+      "denomination": "PARACETAMOL EG 1000 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "68961094",
+      "denomination": "PARACETAMOL EG 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "69546215",
+      "denomination": "PARACETAMOL EG 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "65335982",
+      "denomination": "PARACETAMOL EG 500 mg, gélule"
+    },
+    {
+      "codeCIS": "62013136",
+      "denomination": "PARACETAMOL EG LABO 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "68830091",
+      "denomination": "PARACETAMOL EVOLUGEN 1 g, comprimé sécable"
+    },
+    {
+      "codeCIS": "66125677",
+      "denomination": "PARACETAMOL GNR 1 g, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "65765012",
+      "denomination": "PARACETAMOL GNR 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "66643680",
+      "denomination": "PARACETAMOL ISOMED 1000 mg, comprimé"
+    },
+    {
+      "codeCIS": "68455517",
+      "denomination": "PARACETAMOL ISOMED 1000 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "60777377",
+      "denomination": "PARACETAMOL ISOMED 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "65264460",
+      "denomination": "PARACETAMOL ISOMED 500 mg, comprimé sécable"
+    },
+    {
+      "codeCIS": "64454154",
+      "denomination": "PARACETAMOL KABI 10 mg/ml, solution pour perfusion"
+    },
+    {
+      "codeCIS": "66534880",
+      "denomination": "PARACETAMOL MACOPHARMA 10 mg/ml, solution pour perfusion"
+    },
+    {
+      "codeCIS": "67165233",
+      "denomination": "PARACETAMOL MYLAN 1 g, comprimé sécable"
+    },
+    {
+      "codeCIS": "65678689",
+      "denomination": "PARACETAMOL MYLAN 1000 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "63107752",
+      "denomination": "PARACETAMOL MYLAN 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "65370563",
+      "denomination": "PARACETAMOL MYLAN 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "61858273",
+      "denomination": "PARACETAMOL MYLAN 500 mg, gélule"
+    },
+    {
+      "codeCIS": "63069892",
+      "denomination": "PARACETAMOL PANPHARMA 10 mg/ml, solution pour perfusion"
+    },
+    {
+      "codeCIS": "61134042",
+      "denomination": "PARACETAMOL RANBAXY 1 g, comprimé"
+    },
+    {
+      "codeCIS": "65418129",
+      "denomination": "PARACETAMOL RANBAXY 500 mg, gélule"
+    },
+    {
+      "codeCIS": "63346446",
+      "denomination": "PARACETAMOL RANBAXY MEDICATION OFFICINALE 500 mg, gélule"
+    },
+    {
+      "codeCIS": "62721886",
+      "denomination": "PARACETAMOL RATIOPHARM 1000 mg, comprimé"
+    },
+    {
+      "codeCIS": "67266969",
+      "denomination": "PARACETAMOL RATIOPHARM 1000 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "62800006",
+      "denomination": "PARACETAMOL RATIOPHARM 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "62502166",
+      "denomination": "PARACETAMOL RATIOPHARM 500 mg, comprimé sécable"
+    },
+    {
+      "codeCIS": "61223352",
+      "denomination": "PARACETAMOL RATIOPHARM 500 mg, gélule"
+    },
+    {
+      "codeCIS": "67595893",
+      "denomination": "PARACETAMOL RENAUDIN 10 mg/ml, solution pour perfusion"
+    },
+    {
+      "codeCIS": "63187008",
+      "denomination": "PARACETAMOL RPG 1 g, comprimé sécable"
+    },
+    {
+      "codeCIS": "61960431",
+      "denomination": "PARACETAMOL RPG 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "68312768",
+      "denomination": "PARACETAMOL SANDOZ 1 g, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "69252719",
+      "denomination": "PARACETAMOL SANDOZ 1 g, comprimé sécable"
+    },
+    {
+      "codeCIS": "62688710",
+      "denomination": "PARACETAMOL SANDOZ 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "66833384",
+      "denomination": "PARACETAMOL SANDOZ 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "67034675",
+      "denomination": "PARACETAMOL SANDOZ 500 mg, gélule"
+    },
+    {
+      "codeCIS": "64207990",
+      "denomination": "PARACETAMOL SANDOZ CONSEIL 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "65621649",
+      "denomination": "PARACETAMOL TEVA 1 g, comprimé"
+    },
+    {
+      "codeCIS": "60552722",
+      "denomination": "PARACETAMOL TEVA 1 g, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "68869105",
+      "denomination": "PARACETAMOL TEVA 1000 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "65992519",
+      "denomination": "PARACETAMOL TEVA 300 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "68249079",
+      "denomination": "PARACETAMOL TEVA 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "63308310",
+      "denomination": "PARACETAMOL TEVA 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "60091086",
+      "denomination": "PARACETAMOL TEVA 500 mg, gélule"
+    },
+    {
+      "codeCIS": "67586684",
+      "denomination": "PARACETAMOL TEVA 500 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "66937792",
+      "denomination": "PARACETAMOL TEVA CONSEIL 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "69085184",
+      "denomination": "PARACETAMOL TEVA SANTE 1000 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "64290776",
+      "denomination": "PARACETAMOL TEVA SANTE 500 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "62909621",
+      "denomination": "PARACETAMOL ZENTIVA 1000 mg, comprimé"
+    },
+    {
+      "codeCIS": "64606306",
+      "denomination": "PARACETAMOL ZENTIVA 1000 mg, comprimé effervescent sécable"
+    },
+    {
+      "codeCIS": "66400810",
+      "denomination": "PARACETAMOL ZENTIVA 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "64500406",
+      "denomination": "PARACETAMOL ZENTIVA CONSEIL 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "68957758",
+      "denomination": "PARACETAMOL ZENTIVA LAB 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "65881579",
+      "denomination": "PARACETAMOL ZYDUS 1 g, comprimé"
+    },
+    {
+      "codeCIS": "65827097",
+      "denomination": "PARACETAMOL ZYDUS 500 mg, comprimé"
+    },
+    {
+      "codeCIS": "67445776",
+      "denomination": "PARACETAMOL ZYDUS 500 mg, gélule"
+    },
+    {
+      "codeCIS": "61621858",
+      "denomination": "PARACETAMOL/VITAMINE C/PHENIRAMINE MYLAN CONSEIL 500 mg/200 mg/25 mg, poudre pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "61860121",
+      "denomination": "PARACETAMOL/VITAMINE C/PHENIRAMINE SANDOZ CONSEIL 500 mg/200 mg/25 mg, poudre pour solution buvable en sachet"
+    },
+    {
+      "codeCIS": "69323970",
+      "denomination": "PARALYOC 250 mg, lyophilisat oral"
+    },
+    {
+      "codeCIS": "64169778",
+      "denomination": "PARALYOC 500 mg, lyophilisat oral"
+    },
+    {
+      "codeCIS": "68902929",
+      "denomination": "PARATABS 500 mg, comprimé orodispersible"
+    },
+    {
+      "codeCIS": "69387574",
+      "denomination": "PERFALGAN 10 mg/ml, solution pour perfusion"
+    },
+    {
+      "codeCIS": "67562498",
+      "denomination": "PERFALGAN NOURRISSONS ET ENFANTS 10 mg/ml, solution pour perfusion"
+    },
+    {
+      "codeCIS": "61644230",
+      "denomination": "PRONTALGINE, comprimé"
+    },
+    {
+      "codeCIS": "66365672",
+      "denomination": "RHUMAGRIP, comprimé"
+    },
+    {
+      "codeCIS": "63355160",
+      "denomination": "SAPRAMOL 500 mg, poudre pour solution buvable en sachet-dose"
+    },
+    {
+      "codeCIS": "66929183",
+      "denomination": "THEINOL, solution buvable"
+    },
+    {
+      "codeCIS": "64924814",
+      "denomination": "TRAMADOL PARACETAMOL EVOLUGEN 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "61305080",
+      "denomination": "TRAMADOL/PARACETAMOL ABBOTT 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "69995434",
+      "denomination": "TRAMADOL/PARACETAMOL ARROW 37,5 mg/325 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "64656227",
+      "denomination": "TRAMADOL/PARACETAMOL ARROW GENERIQUES 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "61331851",
+      "denomination": "TRAMADOL/PARACETAMOL BIOGARAN 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "68823442",
+      "denomination": "TRAMADOL/PARACETAMOL CRISTERS 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "61354049",
+      "denomination": "TRAMADOL/PARACETAMOL EG LABO 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "66355660",
+      "denomination": "TRAMADOL/PARACETAMOL GERDA 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "60152411",
+      "denomination": "TRAMADOL/PARACETAMOL KRKA 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "67698690",
+      "denomination": "TRAMADOL/PARACETAMOL MYLAN GENERIQUES 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "61227411",
+      "denomination": "TRAMADOL/PARACETAMOL MYLAN PHARMA 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "69540835",
+      "denomination": "TRAMADOL/PARACETAMOL PHR LAB 37.5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "69621899",
+      "denomination": "TRAMADOL/PARACETAMOL RANBAXY PHARMACIE GENERIQUES 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "69925400",
+      "denomination": "TRAMADOL/PARACETAMOL SANDOZ 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "68322100",
+      "denomination": "TRAMADOL/PARACETAMOL TEVA 37.5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "63561242",
+      "denomination": "TRAMADOL/PARACETAMOL ZENTIVA 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "67594656",
+      "denomination": "TRAMADOL/PARACETAMOL ZYDUS 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "60273772",
+      "denomination": "TRAMADOL/PARACETAMOL ZYDUS FRANCE 37,5 mg/325 mg, comprimé pelliculé"
+    },
+    {
+      "codeCIS": "69253842",
+      "denomination": "TROPHIRES COMPOSE ADULTES, suppositoire"
+    },
+    {
+      "codeCIS": "68522453",
+      "denomination": "TROPHIRES COMPOSE ENFANTS, suppositoire"
+    },
+    {
+      "codeCIS": "65122468",
+      "denomination": "TROPHIRES COMPOSE NOURRISSONS, suppositoire"
+    },
+    {
+      "codeCIS": "63192215",
+      "denomination": "ZALDIAR 37,5 mg/325 mg, comprimé effervescent"
+    },
+    {
+      "codeCIS": "60327615",
+      "denomination": "ZALDIAR 37,5 mg/325 mg, comprimé pelliculé"
+    }
+  ],
+  "interactions": [
+    {
+      "id": "2027",
+      "idFamille1": "397",
+      "famille1": "paracetamol",
+      "idFamille2": "74",
+      "famille2": "antivitamines k"
+    }
+  ],
+  "substancesActives": [
+    {
+      "codeSubstance": "02202",
+      "denominationSubstance": "PARACÉTAMOL",
+      "dosageSubstance": "300 mg",
+      "interactions": [
+        {
+          "id": "2027",
+          "idFamille1": "397",
+          "famille1": "paracetamol",
+          "idFamille2": "74",
+          "famille2": "antivitamines k"
+        }
+      ],
+      "fractionsTherapeutiques": []
+    }
+  ],
+  "fractionsTherapeutiques": []
+}
