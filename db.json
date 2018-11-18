@@ -1,6 +1,6 @@
 
 {
-  "health":{
+  "api/v1/health":{
     "status":"OK"
   },
   "info":{
