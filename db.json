@@ -3,7 +3,7 @@
   "api/v1/health":{
     "status":"OK"
   },
-  "info":{
+  "api/v1/medicaments/info":{
     "dateMiseAJour":"30/07/2018"
   },
   "67210479":{
