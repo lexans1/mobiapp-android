@@ -1,8 +1,5 @@
 
 {
-  "api/health":{
-    "status":"OK"
-  },
   "info":{
     "dateMiseAJour":"30/07/2018"
   },
