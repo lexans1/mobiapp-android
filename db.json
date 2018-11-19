@@ -1,9 +1,9 @@
-
 {
   "info":{
     "dateMiseAJour":"30/07/2018"
   },
-  "67210479":{
+  "medicaments": [
+  {
     "codeCIS": "67210479",
     "denomination": "DOLIPRANE 300 mg, suppositoire",
     "formePharmaceutique": "suppositoire",
@@ -125,4 +125,5 @@
     ],
     "fractionsTherapeutiques": []
   }
+  ]
 }
