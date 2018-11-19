@@ -1,5 +1,4 @@
 {
   "/api/": "/",
-  "/v1/:resource/:id/show": "/:resource/:id"
-  "/medicaments/:resource/:id/show": "/:resource/:id"
+  "/v1/medicaments/:resource/:id/show": "/:resource/:id"
 }
