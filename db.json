@@ -124,6 +124,128 @@
       }
     ],
     "fractionsTherapeutiques": []
+  },
+    {
+    "codeCIS": "67210479",
+    "denomination": "DOLIPRANE 300 mg, suppositoire",
+    "formePharmaceutique": "suppositoire",
+    "homeopathie": false,
+    "voiesAdministration": [
+      "rectale"
+    ],
+    "statutAdministratifAMM": "Autorisation active",
+    "typeProcedureAMM": "Procédure nationale",
+    "etatCommercialisation": true,
+    "dateAMM": "1998-08-17",
+    "statutBDM": "RAS",
+    "numeroAutorisationEuropeenne": "",
+    "titulaires": [
+      "SANOFI AVENTIS FRANCE"
+    ],
+    "surveillanceRenforcee": false,
+    "indicationsTherapeutiques": "Traitement symptomatique des douleurs d'intensité légère à modérée et/ou des états fébriles.<br><i>Plus d'information <a href=\"http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67210479&typedoc=R\" target=\"_blank\">en cliquant ici</a></i>",
+    "presentations": [
+      {
+        "codeCIP7": "3481017",
+        "libelle": "plaquette(s) thermoformée(s) PVC polyéthylène de 10 suppositoire(s)",
+        "statutAdministratif": "ACTIVE",
+        "etatCommercialisationAMM": "Déclaration de commercialisation",
+        "dateDeclarationCommercialisation": "1999-09-01",
+        "codeCIP13": "3400934810176",
+        "agrementCollectivites": true,
+        "tauxRemboursement": [
+          "65%"
+        ],
+        "prix": 2.26,
+        "indicationsRemboursement": ""
+      }
+    ],
+    "compositions": [
+      {
+        "designationElementPharmaceutique": "suppositoire",
+        "referenceDosage": "un suppositoire",
+        "substancesActives": [
+          {
+            "codeSubstance": "02202",
+            "denominationSubstance": "PARACÉTAMOL",
+            "dosageSubstance": "300 mg",
+            "interactions": [
+              {
+                "id": "2027",
+                "idFamille1": "397",
+                "famille1": "paracetamol",
+                "idFamille2": "74",
+                "famille2": "antivitamines k"
+              }
+            ],
+            "fractionsTherapeutiques": []
+          }
+        ]
+      }
+    ],
+    "avisSMR": [
+      {
+        "codeDossierHAS": "CT-14040",
+        "motifEvaluation": "Renouvellement d'inscription (CT)",
+        "dateAvisCommissionTransparence": "2015-04-01",
+        "valeurSMR": "Important",
+        "libelleSMR": "Le service médical rendu par les spécialités DOLIPRANE, GELUPRANE et PARACETAMOL ZENTIVA reste important dans les indications de l’AMM.",
+        "urlHAS": "http://www.has-sante.fr/portail/jcms/c_2027377"
+      }
+    ],
+    "avisASMR": [],
+    "conditionsPrescriptionDelivrance": [],
+    "infosGenerique": null,
+    "infosImportantes": [],
+    "familleComposition": [
+      {
+        "codeCIS": "61617685",
+        "denomination": "ACTIFED ETATS GRIPPAUX, poudre pour solution buvable en sachet-dose"
+      },
+      {
+        "codeCIS": "60206332",
+        "denomination": "ACTIFED RHUME JOUR ET NUIT, comprimé"
+      },
+      {
+        "codeCIS": "69928332",
+        "denomination": "ACTIFED RHUME, comprimé"
+      },
+      {
+        "codeCIS": "60997900",
+        "denomination": "ACTIFEDSIGN, gélule"
+      },
+      {
+        "codeCIS": "62040674",
+        "denomination": "ACTRON, comprimé effervescent"
+      }
+    ],
+    "interactions": [
+      {
+        "id": "2027",
+        "idFamille1": "397",
+        "famille1": "paracetamol",
+        "idFamille2": "74",
+        "famille2": "antivitamines k"
+      }
+    ],
+    "substancesActives": [
+      {
+        "codeSubstance": "02202",
+        "denominationSubstance": "PARACÉTAMOL",
+        "dosageSubstance": "300 mg",
+        "interactions": [
+          {
+            "id": "2027",
+            "idFamille1": "397",
+            "famille1": "paracetamol",
+            "idFamille2": "74",
+            "famille2": "antivitamines k"
+          }
+        ],
+        "fractionsTherapeutiques": []
+      }
+    ],
+    "fractionsTherapeutiques": []
   }
   ]
 }
