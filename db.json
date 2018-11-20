@@ -4,6 +4,7 @@
   },
   "medicaments": [
   {
+    "id": 1,
     "codeCIS": "67210479",
     "denomination": "DOLIPRANE 300 mg, suppositoire",
     "formePharmaceutique": "suppositoire",
@@ -126,6 +127,7 @@
     "fractionsTherapeutiques": []
   },
     {
+    "id": 2,
     "codeCIS": "67210479",
     "denomination": "DOLIPRANE 300 mg, suppositoire",
     "formePharmaceutique": "suppositoire",
