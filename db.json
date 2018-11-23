@@ -130,529 +130,127 @@
     "fractionsTherapeutiques": []
   },
     {
-      "id": 65085849,
-  "codeCIS": "65085849",
-  "denomination": "PARACETAMOL ARROW 500 mg, comprimé effervescent",
-  "formePharmaceutique": "comprimé effervescent(e)",
-  "homeopathie": false,
-  "voiesAdministration": [
-    "orale"
-  ],
-  "statutAdministratifAMM": "Autorisation active",
-  "typeProcedureAMM": "Procédure nationale",
-  "etatCommercialisation": true,
-  "dateAMM": "2010-05-17",
-  "statutBDM": "RAS",
-  "numeroAutorisationEuropeenne": "",
-  "titulaires": [
-    "ARROW GENERIQUES"
-  ],
-  "surveillanceRenforcee": false,
-  "indicationsTherapeutiques": "Traitement symptomatique des douleurs d'intensité légère à modérée et/ou des états fébriles.<br><i>Plus d'information <a href=\"http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65085849&typedoc=R\" target=\"_blank\">en cliquant ici</a></i>",
-  "presentations": [
-    {
-      "codeCIP7": "4911543",
-      "libelle": "tube(s) polypropylène de 16 comprimé(s)",
-      "statutAdministratif": "ACTIVE",
-      "etatCommercialisationAMM": "Déclaration de commercialisation",
-      "dateDeclarationCommercialisation": "2011-07-21",
-      "codeCIP13": "3400949115433",
-      "agrementCollectivites": true,
-      "tauxRemboursement": [
-        "65%"
-      ],
-      "prix": 2.1,
-      "indicationsRemboursement": ""
-    }
-  ],
-  "compositions": [
-    {
-      "designationElementPharmaceutique": "comprimé",
-      "referenceDosage": "un comprimé",
-      "substancesActives": [
-        {
-          "codeSubstance": "02202",
-          "denominationSubstance": "PARACÉTAMOL",
-          "dosageSubstance": "500 mg",
-          "interactions": [
-            {
-              "id": "2784",
-              "idFamille1": "553",
-              "famille1": "médicaments administrés par voie orale",
-              "idFamille2": "517",
-              "famille2": "topiques gastro-intestinaux, antiacides et adsorbants"
-            },
-            {
-              "id": "2791",
-              "idFamille1": "553",
-              "famille1": "médicaments administrés par voie orale",
-              "idFamille2": "449",
-              "famille2": "résines chélatrices"
-            },
-            {
-              "id": "2027",
-              "idFamille1": "397",
-              "famille1": "paracetamol",
-              "idFamille2": "74",
-              "famille2": "antivitamines k"
-            }
-          ],
-          "fractionsTherapeutiques": []
-        }
-      ]
-    }
-  ],
-  "avisSMR": [
-    {
-      "codeDossierHAS": "CT-11879",
-      "motifEvaluation": "Renouvellement d'inscription (CT)",
-      "dateAvisCommissionTransparence": "2012-07-18",
-      "valeurSMR": "Important",
-      "libelleSMR": "Le service médical rendu par ces spécialités reste important dans l'indication de l'AMM.",
-      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_1278882"
-    }
-  ],
-  "avisASMR": [
-    {
-      "codeDossierHAS": "CT-8383",
-      "motifEvaluation": "Inscription (CT)",
-      "dateAvisCommissionTransparence": "2010-07-21",
-      "valeurSMR": "V",
-      "libelleSMR": "Cette spécialité n'apporte pas d'amélioration du service médical rendu (ASMR V) par rapport aux autres spécialités à base de paracétamol dosées à 500 mg.",
-      "urlHAS": null
-    }
-  ],
-  "conditionsPrescriptionDelivrance": [],
-  "infosGenerique": null,
-  "infosImportantes": [],
-  "familleComposition": [
-    {
-      "codeCIS": "61617685",
-      "denomination": "ACTIFED ETATS GRIPPAUX, poudre pour solution buvable en sachet-dose"
-    },
-    {
-      "codeCIS": "60206332",
-      "denomination": "ACTIFED RHUME JOUR ET NUIT, comprimé"
-    },
-    {
-      "codeCIS": "69928332",
-      "denomination": "ACTIFED RHUME, comprimé"
-    },
-    {
-      "codeCIS": "60997900",
-      "denomination": "ACTIFEDSIGN, gélule"
-    },
-    {
-      "codeCIS": "62040674",
-      "denomination": "ACTRON, comprimé effervescent"
-    },
-    {
-      "codeCIS": "69621899",
-      "denomination": "TRAMADOL/PARACETAMOL RANBAXY PHARMACIE GENERIQUES 37,5 mg/325 mg, comprimé pelliculé"
-    },
-    {
-      "codeCIS": "69925400",
-      "denomination": "TRAMADOL/PARACETAMOL SANDOZ 37,5 mg/325 mg, comprimé pelliculé"
-    },
-    {
-      "codeCIS": "68322100",
-      "denomination": "TRAMADOL/PARACETAMOL TEVA 37.5 mg/325 mg, comprimé pelliculé"
-    },
-    {
-      "codeCIS": "63561242",
-      "denomination": "TRAMADOL/PARACETAMOL ZENTIVA 37,5 mg/325 mg, comprimé pelliculé"
-    },
-    {
-      "codeCIS": "67594656",
-      "denomination": "TRAMADOL/PARACETAMOL ZYDUS 37,5 mg/325 mg, comprimé pelliculé"
-    },
-    {
-      "codeCIS": "60273772",
-      "denomination": "TRAMADOL/PARACETAMOL ZYDUS FRANCE 37,5 mg/325 mg, comprimé pelliculé"
-    },
-    {
-      "codeCIS": "69253842",
-      "denomination": "TROPHIRES COMPOSE ADULTES, suppositoire"
-    },
-    {
-      "codeCIS": "68522453",
-      "denomination": "TROPHIRES COMPOSE ENFANTS, suppositoire"
-    },
-    {
-      "codeCIS": "65122468",
-      "denomination": "TROPHIRES COMPOSE NOURRISSONS, suppositoire"
-    },
-    {
-      "codeCIS": "63192215",
-      "denomination": "ZALDIAR 37,5 mg/325 mg, comprimé effervescent"
-    },
-    {
-      "codeCIS": "60327615",
-      "denomination": "ZALDIAR 37,5 mg/325 mg, comprimé pelliculé"
-    }
-  ],
-  "interactions": [
-    {
-      "id": "2027",
-      "idFamille1": "397",
-      "famille1": "paracetamol",
-      "idFamille2": "74",
-      "famille2": "antivitamines k"
-    },
-    {
-      "id": "2784",
-      "idFamille1": "553",
-      "famille1": "médicaments administrés par voie orale",
-      "idFamille2": "517",
-      "famille2": "topiques gastro-intestinaux, antiacides et adsorbants"
-    },
-    {
-      "id": "2791",
-      "idFamille1": "553",
-      "famille1": "médicaments administrés par voie orale",
-      "idFamille2": "449",
-      "famille2": "résines chélatrices"
-    }
-  ],
-  "substancesActives": [
-    {
-      "codeSubstance": "02202",
-      "denominationSubstance": "PARACÉTAMOL",
-      "dosageSubstance": "500 mg",
-      "interactions": [
-        {
-          "id": "2784",
-          "idFamille1": "553",
-          "famille1": "médicaments administrés par voie orale",
-          "idFamille2": "517",
-          "famille2": "topiques gastro-intestinaux, antiacides et adsorbants"
-        },
-        {
-          "id": "2791",
-          "idFamille1": "553",
-          "famille1": "médicaments administrés par voie orale",
-          "idFamille2": "449",
-          "famille2": "résines chélatrices"
-        },
-        {
-          "id": "2027",
-          "idFamille1": "397",
-          "famille1": "paracetamol",
-          "idFamille2": "74",
-          "famille2": "antivitamines k"
-        }
-      ],
-      "fractionsTherapeutiques": []
-    }
-  ],
-  "fractionsTherapeutiques": []
-},
-    {
-      "id": "63233249",
-  "codeCIS": "63233249",
-  "denomination": "FLUOCYNE 10%, solution injectable I.V.",
-  "formePharmaceutique": "solution injectable",
-  "homeopathie": false,
-  "voiesAdministration": [
-    "intraveineuse"
-  ],
-  "statutAdministratifAMM": "Autorisation active",
-  "typeProcedureAMM": "Procédure nationale",
-  "etatCommercialisation": true,
-  "dateAMM": "1997-09-29",
-  "statutBDM": "RAS",
-  "numeroAutorisationEuropeenne": "",
-  "titulaires": [
-    "SERB"
-  ],
-  "surveillanceRenforcee": false,
-  "indicationsTherapeutiques": "Angiographie fluorescéinique du fond de l'œil.<br>Dans de rares cas:<ul><li> fluorométrie du vitré,</li><li> fluorométrie de l'humeur aqueuse.</li></ul>Ce médicament est à usage diagnostic uniquement.<br><i>Plus d'information <a href=\"http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63233249&typedoc=R\" target=\"_blank\">en cliquant ici</a></i>",
-  "presentations": [
-    {
-      "codeCIP7": "3656698",
-      "libelle": "10 ampoule(s) bouteille en verre de 5 ml",
-      "statutAdministratif": "ACTIVE",
-      "etatCommercialisationAMM": "Déclaration de commercialisation",
-      "dateDeclarationCommercialisation": "2006-04-03",
-      "codeCIP13": "3400936566989",
-      "agrementCollectivites": true,
-      "tauxRemboursement": [],
-      "prix": null,
-      "indicationsRemboursement": ""
-    },
-    {
-      "codeCIP7": "3695422",
-      "libelle": "1 ampoule(s) bouteille en verre de 5 ml",
-      "statutAdministratif": "ACTIVE",
-      "etatCommercialisationAMM": "Déclaration de commercialisation",
-      "dateDeclarationCommercialisation": "2006-04-24",
-      "codeCIP13": "3400936954229",
-      "agrementCollectivites": true,
-      "tauxRemboursement": [],
-      "prix": null,
-      "indicationsRemboursement": ""
-    }
-  ],
-  "compositions": [
-    {
-      "designationElementPharmaceutique": "solution",
-      "referenceDosage": "100 ml de solution injectable",
-      "substancesActives": [
-        {
-          "codeSubstance": "04305",
-          "denominationSubstance": "FLUORESCÉINE SODIQUE",
-          "dosageSubstance": "10 g",
-          "interactions": [],
-          "fractionsTherapeutiques": []
-        }
-      ]
-    }
-  ],
-  "avisSMR": [
-    {
-      "codeDossierHAS": "CT-13457",
-      "motifEvaluation": "Inscription (CT)",
-      "dateAvisCommissionTransparence": "2014-04-23",
-      "valeurSMR": "Important",
-      "libelleSMR": "La commission considère que le service médical rendu par FLUOCYNE est important dans les indications de l’AMM.",
-      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_1742490"
-    },
-    {
-      "codeDossierHAS": "CT-5143",
-      "motifEvaluation": "Inscription (CT)",
-      "dateAvisCommissionTransparence": "2007-12-05",
-      "valeurSMR": "Important",
-      "libelleSMR": "Le service médical rendu par cette spécialité est important dans les indications de l'AMM.",
-      "urlHAS": null
-    },
-    {
-      "codeDossierHAS": "CT-3350",
-      "motifEvaluation": "Inscription (CT)",
-      "dateAvisCommissionTransparence": "2006-12-13",
-      "valeurSMR": "Important",
-      "libelleSMR": "Le service médical rendu par FLUOCYNE 10%, solution injectable I.V. est important.",
-      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_474017"
-    }
-  ],
-  "avisASMR": [
-    {
-      "codeDossierHAS": "CT-13457",
-      "motifEvaluation": "Inscription (CT)",
-      "dateAvisCommissionTransparence": "2014-04-23",
-      "valeurSMR": "V",
-      "libelleSMR": "Cette spécialité est un complément de gamme qui n’apporte pas d’amélioration du service médical rendu (ASMR V, inexistante) par rapport à la présentation déjà inscrite.",
-      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_1742490"
-    },
-    {
-      "codeDossierHAS": "CT-5143",
-      "motifEvaluation": "Inscription (CT)",
-      "dateAvisCommissionTransparence": "2007-12-05",
-      "valeurSMR": "V",
-      "libelleSMR": "Cette spécialité est un complément de gamme qui n’apporte pas d’amélioration du service médical rendu.",
-      "urlHAS": null
-    },
-    {
-      "codeDossierHAS": "CT-3350",
-      "motifEvaluation": "Inscription (CT)",
-      "dateAvisCommissionTransparence": "2006-12-13",
-      "valeurSMR": "V",
-      "libelleSMR": "Cette spécialité n'apporte pas d'amélioration du service médical rendu (ASMR V) par rapport à la FLUORESCEINE SODIQUE FAURE 10%, solution injectable (boite de 10 ampoules de 5 ml).",
-      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_474017"
-    }
-  ],
-  "conditionsPrescriptionDelivrance": [],
-  "infosGenerique": null,
-  "infosImportantes": [],
-  "familleComposition": [
-    {
-      "codeCIS": "69497711",
-      "denomination": "FLUORESCEINE FAURE 0,5 POUR CENT, collyre en solution en récipient unidose"
-    },
-    {
-      "codeCIS": "63485289",
-      "denomination": "FLUORESCEINE SODIQUE FAURE 10 POUR CENT, solution injectable"
-    }
-  ],
-  "interactions": [],
-  "substancesActives": [
-    {
-      "codeSubstance": "04305",
-      "denominationSubstance": "FLUORESCÉINE SODIQUE",
-      "dosageSubstance": "10 g",
-      "interactions": [],
-      "fractionsTherapeutiques": []
-    }
-  ],
-  "fractionsTherapeutiques": []
-},
-    {
-       "id": "61110397",
-  "codeCIS": "61110397",
-  "denomination": "CEFEPIME GERDA 2 g, poudre pour solution injectable (IV)",
-  "formePharmaceutique": "poudre pour solution injectable",
-  "homeopathie": false,
-  "voiesAdministration": [
-    "intraveineuse"
-  ],
-  "statutAdministratifAMM": "Autorisation active",
-  "typeProcedureAMM": "Procédure nationale",
-  "etatCommercialisation": true,
-  "dateAMM": "2013-05-23",
-  "statutBDM": "RAS",
-  "numeroAutorisationEuropeenne": "",
-  "titulaires": [
-    "LABORATOIRES GERDA"
-  ],
-  "surveillanceRenforcee": false,
-  "indicationsTherapeutiques": "Elles procèdent de l'activité antibactérienne et des caractéristiques pharmacocinétiques du céfépime. Elles tiennent compte à la fois des études cliniques auxquelles a donné lieu le médicament et de sa place dans l'éventail des produits antibactériens actuellement disponibles.<br>Elles comprennent les infections dues aux germes sensibles au céfépime:<ul><li> Chez l'adulte:</li><ul><li>o septicémies et bactériémies,</li><li>o infections respiratoires basses communautaires et pneumonies sévères,</li><li>o infections urinaires compliquées et non compliquées,</li><li>o épisodes fébriles chez les patients neutropéniques,</li><li>o infections biliaires.</li></ul><li> Chez le nourrisson de plus de deux mois et l'enfant:</li><ul><li>o épisodes fébriles au cours des neutropénies lorsque la durée prévisible de neutropénie est courte.</li></ul>Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens.<br><i>Plus d'information <a href=\"http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61110397&typedoc=R\" target=\"_blank\">en cliquant ici</a></i>",
-  "presentations": [
-    {
-      "codeCIP7": "2732285",
-      "libelle": "1 flacon(s) en verre",
-      "statutAdministratif": "ACTIVE",
-      "etatCommercialisationAMM": "Déclaration de commercialisation",
-      "dateDeclarationCommercialisation": "2014-01-13",
-      "codeCIP13": "3400927322853",
-      "agrementCollectivites": false,
-      "tauxRemboursement": [
-        "65 %"
-      ],
-      "prix": 13.86,
-      "indicationsRemboursement": ""
-    }
-  ],
-  "compositions": [
-    {
-      "designationElementPharmaceutique": "poudre",
-      "referenceDosage": "un flacon",
-      "substancesActives": [
-        {
-          "codeSubstance": "77311",
-          "denominationSubstance": "DICHLORHYDRATE DE CÉFÉPIME MONOHYDRATÉ",
-          "dosageSubstance": "",
-          "interactions": [],
-          "fractionsTherapeutiques": [
-            {
-              "codeSubstance": "49595",
-              "denominationSubstance": "CÉFÉPIME",
-              "dosageSubstance": "2 g",
-              "interactions": []
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "avisSMR": [],
-  "avisASMR": [],
-  "conditionsPrescriptionDelivrance": [
-    "liste I",
-    "prescription hospitalière"
-  ],
-  "infosGenerique": {
-    "type": "GENERIQUE",
-    "codeGroupe": "746",
-    "libelleGroupe": "CEFEPIME (DICHLORHYDRATE DE) MONOHYDRATE équivalant à CEFEPIME 2 g - AXEPIM 2 g, poudre pour usage parentéral.",
-    "autresMedicamentsGroupe": [
+    "id": 2,
+    "codeCIS": "67210479",
+    "denomination": "DOLIPRANE 300 mg, suppositoire",
+    "formePharmaceutique": "suppositoire",
+    "homeopathie": false,
+    "voiesAdministration": [
+      "rectale"
+    ],
+    "statutAdministratifAMM": "Autorisation active",
+    "typeProcedureAMM": "Procédure nationale",
+    "etatCommercialisation": true,
+    "dateAMM": "1998-08-17",
+    "statutBDM": "RAS",
+    "numeroAutorisationEuropeenne": "",
+    "titulaires": [
+      "SANOFI AVENTIS FRANCE"
+    ],
+    "surveillanceRenforcee": false,
+    "indicationsTherapeutiques": "Traitement symptomatique des douleurs d'intensité légère à modérée et/ou des états fébriles.<br><i>Plus d'information <a href=\"http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67210479&typedoc=R\" target=\"_blank\">en cliquant ici</a></i>",
+    "presentations": [
       {
-        "codeCIS": "67288175",
-        "denomination": "AXEPIM 2 g, poudre pour usage parentéral",
-        "type": "PRINCEPS",
-        "prix": [
-          20.27
-        ]
-      },
+        "codeCIP7": "3481017",
+        "libelle": "plaquette(s) thermoformée(s) PVC polyéthylène de 10 suppositoire(s)",
+        "statutAdministratif": "ACTIVE",
+        "etatCommercialisationAMM": "Déclaration de commercialisation",
+        "dateDeclarationCommercialisation": "1999-09-01",
+        "codeCIP13": "3400934810176",
+        "agrementCollectivites": true,
+        "tauxRemboursement": [
+          "65%"
+        ],
+        "prix": 2.26,
+        "indicationsRemboursement": ""
+      }
+    ],
+    "compositions": [
       {
-        "codeCIS": "68804495",
-        "denomination": "CEFEPIME MYLAN 2 g, poudre pour solution injectable",
-        "type": "GENERIQUE",
-        "prix": [
-          13.86
-        ]
-      },
-      {
-        "codeCIS": "69701039",
-        "denomination": "CEFEPIME PANPHARMA 2 g, poudre pour solution injectable (IV)",
-        "type": "GENERIQUE",
-        "prix": [
-          null
+        "designationElementPharmaceutique": "suppositoire",
+        "referenceDosage": "un suppositoire",
+        "substancesActives": [
+          {
+            "codeSubstance": "02202",
+            "denominationSubstance": "PARACÉTAMOL",
+            "dosageSubstance": "300 mg",
+            "interactions": [
+              {
+                "id": "2027",
+                "idFamille1": "397",
+                "famille1": "paracetamol",
+                "idFamille2": "74",
+                "famille2": "antivitamines k"
+              }
+            ],
+            "fractionsTherapeutiques": []
+          }
         ]
       }
-    ]
-  },
-  "infosImportantes": [
-    {
-      "dateDebut": "2014-10-01",
-      "dateFin": "2016-10-01",
-      "infoURL": "http://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Cefepime-rappel-des-risques-de-reactions-graves-lors-du-non-respect-des-posologies-recommandees-notamment-en-cas-de-d-insuffisance-renale-Point-d-Information",
-      "infoLibelle": "Céfépime: rappel des risques de réactions graves lors du non respect des posologies recommandées notamment en cas de d’insuffisance rénale - Point d'Information"
-    }
-  ],
-  "familleComposition": [
-    {
-      "codeCIS": "67461944",
-      "denomination": "AXEPIM 0,5 g, poudre pour usage parentéral"
-    },
-    {
-      "codeCIS": "60804995",
-      "denomination": "AXEPIM 1 g, poudre pour usage parentéral"
-    },
-    {
-      "codeCIS": "67288175",
-      "denomination": "AXEPIM 2 g, poudre pour usage parentéral"
-    },
-    {
-      "codeCIS": "64381603",
-      "denomination": "CEFEPIME GERDA 0,5 g, poudre pour solution injectable (IM/IV)"
-    },
-    {
-      "codeCIS": "69013007",
-      "denomination": "CEFEPIME GERDA 1 g, poudre pour solution injectable (IM/IV)"
-    },
-    {
-      "codeCIS": "65002725",
-      "denomination": "CEFEPIME MYLAN 1 g, poudre pour solution injectable"
-    },
-    {
-      "codeCIS": "68804495",
-      "denomination": "CEFEPIME MYLAN 2 g, poudre pour solution injectable"
-    },
-    {
-      "codeCIS": "61957549",
-      "denomination": "CEFEPIME PANPHARMA 1 g, poudre pour solution injectable (IM/IV)"
-    },
-    {
-      "codeCIS": "69701039",
-      "denomination": "CEFEPIME PANPHARMA 2 g, poudre pour solution injectable (IV)"
-    }
-  ],
-  "interactions": [],
-  "substancesActives": [
-    {
-      "codeSubstance": "77311",
-      "denominationSubstance": "DICHLORHYDRATE DE CÉFÉPIME MONOHYDRATÉ",
-      "dosageSubstance": "",
-      "interactions": [],
-      "fractionsTherapeutiques": [
-        {
-          "codeSubstance": "49595",
-          "denominationSubstance": "CÉFÉPIME",
-          "dosageSubstance": "2 g",
-          "interactions": []
-        }
-      ]
-    }
-  ],
-  "fractionsTherapeutiques": [
-    {
-      "codeSubstance": "49595",
-      "denominationSubstance": "CÉFÉPIME",
-      "dosageSubstance": "2 g",
-      "interactions": []
-    }
-  ]
-}
-
-
+    ],
+    "avisSMR": [
+      {
+        "codeDossierHAS": "CT-14040",
+        "motifEvaluation": "Renouvellement d'inscription (CT)",
+        "dateAvisCommissionTransparence": "2015-04-01",
+        "valeurSMR": "Important",
+        "libelleSMR": "Le service médical rendu par les spécialités DOLIPRANE, GELUPRANE et PARACETAMOL ZENTIVA reste important dans les indications de l’AMM.",
+        "urlHAS": "http://www.has-sante.fr/portail/jcms/c_2027377"
+      }
+    ],
+    "avisASMR": [],
+    "conditionsPrescriptionDelivrance": [],
+    "infosGenerique": null,
+    "infosImportantes": [],
+    "familleComposition": [
+      {
+        "codeCIS": "61617685",
+        "denomination": "ACTIFED ETATS GRIPPAUX, poudre pour solution buvable en sachet-dose"
+      },
+      {
+        "codeCIS": "60206332",
+        "denomination": "ACTIFED RHUME JOUR ET NUIT, comprimé"
+      },
+      {
+        "codeCIS": "69928332",
+        "denomination": "ACTIFED RHUME, comprimé"
+      },
+      {
+        "codeCIS": "60997900",
+        "denomination": "ACTIFEDSIGN, gélule"
+      },
+      {
+        "codeCIS": "62040674",
+        "denomination": "ACTRON, comprimé effervescent"
+      }
+    ],
+    "interactions": [
+      {
+        "id": "2027",
+        "idFamille1": "397",
+        "famille1": "paracetamol",
+        "idFamille2": "74",
+        "famille2": "antivitamines k"
+      }
+    ],
+    "substancesActives": [
+      {
+        "codeSubstance": "02202",
+        "denominationSubstance": "PARACÉTAMOL",
+        "dosageSubstance": "300 mg",
+        "interactions": [
+          {
+            "id": "2027",
+            "idFamille1": "397",
+            "famille1": "paracetamol",
+            "idFamille2": "74",
+            "famille2": "antivitamines k"
+          }
+        ],
+        "fractionsTherapeutiques": []
+      }
+    ],
+    "fractionsTherapeutiques": []
+  }
   ]
 }
