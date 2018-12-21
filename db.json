@@ -81,18 +81,6 @@
     "infosImportantes": [],
     "familleComposition": [
       {
-        "codeCIS": "61617685",
-        "denomination": "ACTIFED ETATS GRIPPAUX, poudre pour solution buvable en sachet-dose"
-      },
-      {
-        "codeCIS": "60206332",
-        "denomination": "ACTIFED RHUME JOUR ET NUIT, comprimé"
-      },
-      {
-        "codeCIS": "69928332",
-        "denomination": "ACTIFED RHUME, comprimé"
-      },
-      {
         "codeCIS": "60997900",
         "denomination": "ACTIFEDSIGN, gélule"
       },
@@ -234,14 +222,6 @@
     "libelleGroupe": "HYDROXYZINE (CHLORHYDRATE D') 25 mg - ATARAX 25 mg, comprimé pelliculé sécable",
     "autresMedicamentsGroupe": [
       {
-        "codeCIS": "65195879",
-        "denomination": "HYDROXYZINE SANDOZ 25 mg, comprimé pelliculé sécable",
-        "type": "GENERIQUE",
-        "prix": [
-          2.67
-        ]
-      },
-      {
         "codeCIS": "60322461",
         "denomination": "HYDROXYZINE TEVA 25 mg, comprimé pelliculé sécable",
         "type": "GENERIQUE",
@@ -260,12 +240,6 @@
     ]
   },
   "infosImportantes": [
-    {
-      "dateDebut": "2015-04-30",
-      "dateFin": "2017-04-30",
-      "infoURL": "http://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Hydroxyzine-Atarax-et-generiques-nouvelles-restrictions-d-utilisation-pour-minimiser-le-risque-d-allongement-QT-Point-d-Information",
-      "infoLibelle": "Hydroxyzine (Atarax et génériques) : nouvelles restrictions d'utilisation pour minimiser le risque d'allongement [QT] - Point d'Information"
-    },
     {
       "dateDebut": "2015-02-18",
       "dateFin": "2016-08-18",
