@@ -131,126 +131,265 @@
   },
     {
     "id": 2,
-    "codeCIS": "67210479",
-    "denomination": "DOLIPRANE 300 mg, suppositoire",
-    "formePharmaceutique": "suppositoire",
-    "homeopathie": false,
-    "voiesAdministration": [
-      "rectale"
-    ],
-    "statutAdministratifAMM": "Autorisation active",
-    "typeProcedureAMM": "Procédure nationale",
-    "etatCommercialisation": true,
-    "dateAMM": "1998-08-17",
-    "statutBDM": "RAS",
-    "numeroAutorisationEuropeenne": "",
-    "titulaires": [
-      "SANOFI AVENTIS FRANCE"
-    ],
-    "surveillanceRenforcee": false,
-    "indicationsTherapeutiques": "Traitement symptomatique des douleurs d'intensité légère à modérée et/ou des états fébriles.<br><i>Plus d'information <a href=\"http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67210479&typedoc=R\" target=\"_blank\">en cliquant ici</a></i>",
-    "presentations": [
+  "codeCIS": "61519586",
+  "denomination": "ATARAX 25 mg, comprimé pelliculé sécable",
+  "formePharmaceutique": "comprimé pelliculé sécable",
+  "homeopathie": false,
+  "voiesAdministration": [
+    "orale"
+  ],
+  "statutAdministratifAMM": "Autorisation active",
+  "typeProcedureAMM": "Procédure nationale",
+  "etatCommercialisation": true,
+  "dateAMM": "1988-08-16",
+  "statutBDM": "RAS",
+  "numeroAutorisationEuropeenne": "",
+  "titulaires": [
+    "UCB PHARMA"
+  ],
+  "surveillanceRenforcee": false,
+  "indicationsTherapeutiques": "<ul><li> manifestations mineures de l'anxiété,</li><li> prémédication à l'anesthésie générale,</li><li> traitement symptomatique de l'urticaire,</li><li> chez l'enfant de plus de 6 ans, traitement de deuxième intention des insomnies d'endormissement liées à un état d'hyper-éveil (vigilance accrue liée à des manifestations anxieuses au coucher), après échec des mesures comportementales seules.</li></ul><i>Plus d'information <a href=\"http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61519586&typedoc=R\" target=\"_blank\">en cliquant ici</a></i>",
+  "presentations": [
+    {
+      "codeCIP7": "3008137",
+      "libelle": "plaquette(s) thermoformée(s) PVC-Aluminium de 30  comprimé(s)",
+      "statutAdministratif": "ACTIVE",
+      "etatCommercialisationAMM": "Déclaration de commercialisation",
+      "dateDeclarationCommercialisation": "1956-01-19",
+      "codeCIP13": "3400930081372",
+      "agrementCollectivites": true,
+      "tauxRemboursement": [
+        "65%"
+      ],
+      "prix": 2.98,
+      "indicationsRemboursement": ""
+    }
+  ],
+  "compositions": [
+    {
+      "designationElementPharmaceutique": "comprimé",
+      "referenceDosage": "un comprimé",
+      "substancesActives": [
+        {
+          "codeSubstance": "02087",
+          "denominationSubstance": "HYDROXYZINE (DICHLORHYDRATE DE)",
+          "dosageSubstance": "25 mg",
+          "interactions": [
+            {
+              "id": "1772",
+              "idFamille1": "340",
+              "famille1": "médicaments susceptibles de donner des torsades de pointes",
+              "idFamille2": "134",
+              "famille2": "clarithromycine"
+            },
+            {
+              "id": "1773",
+              "idFamille1": "340",
+              "famille1": "médicaments susceptibles de donner des torsades de pointes",
+              "idFamille2": "270",
+              "famille2": "hydroxychloroquine"
+            }
+          ],
+          "fractionsTherapeutiques": []
+        }
+      ]
+    }
+  ],
+  "avisSMR": [
+    {
+      "codeDossierHAS": "CT-4129",
+      "motifEvaluation": "Extension d'indication",
+      "dateAvisCommissionTransparence": "2007-05-09",
+      "valeurSMR": "Faible",
+      "libelleSMR": "Le service médical rendu par Atarax est faible dans l’extension d’indication : Chez l’enfant de plus de 3 ans, traitement de deuxième intention des insomnies d’endormissement liées à un état d’hyper-éveil (vigilance accrue liée à des manifestations anxieuses au coucher), après échec des mesures comportementales seules.",
+      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_538431"
+    },
+    {
+      "codeDossierHAS": "CT-3264",
+      "motifEvaluation": "Renouvellement d'inscription (CT)",
+      "dateAvisCommissionTransparence": "2007-01-17",
+      "valeurSMR": "Important",
+      "libelleSMR": "Le service médical rendu par ATARAX 25 et 100 mg, comprimés reste important dans les manifestations mineures de l'anxiété. Le service médical rendu par les spécialités ATARAX est important dans prémédication à l'anesthésie générale.",
+      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_486519"
+    },
+    {
+      "codeDossierHAS": "CT-3264",
+      "motifEvaluation": "Renouvellement d'inscription (CT)",
+      "dateAvisCommissionTransparence": "2007-01-17",
+      "valeurSMR": "Modéré",
+      "libelleSMR": "Le service médical rendu par ATARAX 25 et 100 mg, comprimés est modéré dans le traitement symptomatique de l'urticaire.",
+      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_486519"
+    }
+  ],
+  "avisASMR": [
+    {
+      "codeDossierHAS": "CT-4129",
+      "motifEvaluation": "Extension d'indication",
+      "dateAvisCommissionTransparence": "2007-05-09",
+      "valeurSMR": "V",
+      "libelleSMR": "ATARAX n'apporte pas d'amélioration du service médical rendu (ASMR niveau V) dans la prise en charge habituelle, chez l'enfant de plus de 3 ans, du traitement de deuxième intention des insomnies d'endormissement liées à un état d'hyper-éveil (vigilance accrue liée à des manifestations anxieuses au coucher), après échec des mesures comportementales seules.",
+      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_538431"
+    }
+  ],
+  "conditionsPrescriptionDelivrance": [
+    "liste I",
+    "prescription limitée à 12 semaines"
+  ],
+  "infosGenerique": {
+    "type": "PRINCEPS",
+    "codeGroupe": "1199",
+    "libelleGroupe": "HYDROXYZINE (CHLORHYDRATE D') 25 mg - ATARAX 25 mg, comprimé pelliculé sécable",
+    "autresMedicamentsGroupe": [
       {
-        "codeCIP7": "3481017",
-        "libelle": "plaquette(s) thermoformée(s) PVC polyéthylène de 10 suppositoire(s)",
-        "statutAdministratif": "ACTIVE",
-        "etatCommercialisationAMM": "Déclaration de commercialisation",
-        "dateDeclarationCommercialisation": "1999-09-01",
-        "codeCIP13": "3400934810176",
-        "agrementCollectivites": true,
-        "tauxRemboursement": [
-          "65%"
-        ],
-        "prix": 2.26,
-        "indicationsRemboursement": ""
-      }
-    ],
-    "compositions": [
+        "codeCIS": "60507271",
+        "denomination": "HYDROXYZINE ARROW 25 mg, comprimé pelliculé sécable",
+        "type": "GENERIQUE",
+        "prix": [
+          2.67
+        ]
+      },
       {
-        "designationElementPharmaceutique": "suppositoire",
-        "referenceDosage": "un suppositoire",
-        "substancesActives": [
-          {
-            "codeSubstance": "02202",
-            "denominationSubstance": "PARACÉTAMOL",
-            "dosageSubstance": "300 mg",
-            "interactions": [
-              {
-                "id": "2027",
-                "idFamille1": "397",
-                "famille1": "paracetamol",
-                "idFamille2": "74",
-                "famille2": "antivitamines k"
-              }
-            ],
-            "fractionsTherapeutiques": []
-          }
+        "codeCIS": "67838085",
+        "denomination": "HYDROXYZINE BIOGARAN 25 mg, comprimé pelliculé sécable",
+        "type": "GENERIQUE",
+        "prix": [
+          2.67
+        ]
+      },
+      {
+        "codeCIS": "65717544",
+        "denomination": "HYDROXYZINE CRISTERS 25 mg, comprimé pelliculé sécable",
+        "type": "GENERIQUE",
+        "prix": [
+          2.67
+        ]
+      },
+      {
+        "codeCIS": "64715729",
+        "denomination": "HYDROXYZINE EG 25 mg, comprimé pelliculé sécable",
+        "type": "GENERIQUE",
+        "prix": [
+          2.67
+        ]
+      },
+      {
+        "codeCIS": "69638464",
+        "denomination": "HYDROXYZINE MYLAN 25 mg, comprimé pelliculé sécable",
+        "type": "GENERIQUE",
+        "prix": [
+          2.67
+        ]
+      },
+      {
+        "codeCIS": "65195879",
+        "denomination": "HYDROXYZINE SANDOZ 25 mg, comprimé pelliculé sécable",
+        "type": "GENERIQUE",
+        "prix": [
+          2.67
+        ]
+      },
+      {
+        "codeCIS": "60322461",
+        "denomination": "HYDROXYZINE TEVA 25 mg, comprimé pelliculé sécable",
+        "type": "GENERIQUE",
+        "prix": [
+          2.67
+        ]
+      },
+      {
+        "codeCIS": "63874970",
+        "denomination": "HYDROXYZINE ZENTIVA 25 mg, comprimé pelliculé sécable",
+        "type": "GENERIQUE",
+        "prix": [
+          2.67
         ]
       }
-    ],
-    "avisSMR": [
-      {
-        "codeDossierHAS": "CT-14040",
-        "motifEvaluation": "Renouvellement d'inscription (CT)",
-        "dateAvisCommissionTransparence": "2015-04-01",
-        "valeurSMR": "Important",
-        "libelleSMR": "Le service médical rendu par les spécialités DOLIPRANE, GELUPRANE et PARACETAMOL ZENTIVA reste important dans les indications de l’AMM.",
-        "urlHAS": "http://www.has-sante.fr/portail/jcms/c_2027377"
-      }
-    ],
-    "avisASMR": [],
-    "conditionsPrescriptionDelivrance": [],
-    "infosGenerique": null,
-    "infosImportantes": [],
-    "familleComposition": [
-      {
-        "codeCIS": "61617685",
-        "denomination": "ACTIFED ETATS GRIPPAUX, poudre pour solution buvable en sachet-dose"
-      },
-      {
-        "codeCIS": "60206332",
-        "denomination": "ACTIFED RHUME JOUR ET NUIT, comprimé"
-      },
-      {
-        "codeCIS": "69928332",
-        "denomination": "ACTIFED RHUME, comprimé"
-      },
-      {
-        "codeCIS": "60997900",
-        "denomination": "ACTIFEDSIGN, gélule"
-      },
-      {
-        "codeCIS": "62040674",
-        "denomination": "ACTRON, comprimé effervescent"
-      }
-    ],
-    "interactions": [
-      {
-        "id": "2027",
-        "idFamille1": "397",
-        "famille1": "paracetamol",
-        "idFamille2": "74",
-        "famille2": "antivitamines k"
-      }
-    ],
-    "substancesActives": [
-      {
-        "codeSubstance": "02202",
-        "denominationSubstance": "PARACÉTAMOL",
-        "dosageSubstance": "300 mg",
-        "interactions": [
-          {
-            "id": "2027",
-            "idFamille1": "397",
-            "famille1": "paracetamol",
-            "idFamille2": "74",
-            "famille2": "antivitamines k"
-          }
-        ],
-        "fractionsTherapeutiques": []
-      }
-    ],
-    "fractionsTherapeutiques": []
+    ]
+  },
+  "infosImportantes": [
+    {
+      "dateDebut": "2015-04-30",
+      "dateFin": "2017-04-30",
+      "infoURL": "http://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Hydroxyzine-Atarax-et-generiques-nouvelles-restrictions-d-utilisation-pour-minimiser-le-risque-d-allongement-QT-Point-d-Information",
+      "infoLibelle": "Hydroxyzine (Atarax et génériques) : nouvelles restrictions d'utilisation pour minimiser le risque d'allongement [QT] - Point d'Information"
+    },
+    {
+      "dateDebut": "2015-02-18",
+      "dateFin": "2016-08-18",
+      "infoURL": "http://ansm.sante.fr/S-informer/Travaux-de-l-Agence-Europeenne-des-Medicaments-EMA-Comite-pour-l-evaluation-des-risques-en-matiere-de-pharmacovigilance-PRAC/Reevaluation-des-medicaments-a-base-d-hydroxyzine-et-des-medicaments-a-base-de-codeine-utilises-chez-l-enfant-retour-d-information-sur-le-PRAC-de-fevrier-2015-Point-d-information",
+      "infoLibelle": "Réévaluation des médicaments à base d’hydroxyzine et des médicaments à base de codéine utilisés chez l’enfant, retour d’information sur le PRAC de février 2015 - Point d'information"
+    },
+    {
+      "dateDebut": "2014-05-19",
+      "dateFin": "2017-04-20",
+      "infoURL": "http://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Medicaments-contenant-de-la-domperidone-du-zolpidem-ou-de-l-hydroxyzine-retour-sur-la-reunion-d-avril-2014-du-CMDh-Point-d-Information",
+      "infoLibelle": "Médicaments contenant de la dompéridone, du zolpidem ou de l’hydroxyzine : retour sur la réunion d’avril 2014 du CMDh - Point d'Information"
+    },
+    {
+      "dateDebut": "2014-05-12",
+      "dateFin": "2016-05-12",
+      "infoURL": "http://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Iclusig-R-ponatinib-medicaments-a-base-d-hydroxyzine-Atarax-R-Hydroxyzine-Renaudin-R-medicament-a-base-d-ivabradine-Procoralan-R-et-Corlentor-R-Retour-d-information-sur-le-PRAC-de-mai-2014-Point-d-information",
+      "infoLibelle": "Iclusig® (ponatinib), médicaments à base d’hydroxyzine (Atarax®, Hydroxyzine Renaudin®), médicament à base d’ivabradine (Procoralan® et Corlentor®) - Retour d’information sur le PRAC de mai 2014 - Point d'information"
+    }
+  ],
+  "familleComposition": [
+    {
+      "codeCIS": "60447340",
+      "denomination": "ATARAX 100 mg, comprimé pelliculé sécable"
+    },
+    {
+      "codeCIS": "63874970",
+      "denomination": "HYDROXYZINE ZENTIVA 25 mg, comprimé pelliculé sécable"
+    }
+  ],
+  "interactions": [
+    {
+      "id": "1781",
+      "idFamille1": "340",
+      "famille1": "médicaments susceptibles de donner des torsades de pointes",
+      "idFamille2": "519",
+      "famille2": "torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)"
+    },
+    {
+      "id": "2604",
+      "idFamille1": "519",
+      "famille1": "torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)",
+      "idFamille2": "340",
+      "famille2": "médicaments susceptibles de donner des torsades de pointes"
+    }
+  ],
+  "substancesActives": [
+    {
+      "codeSubstance": "02087",
+      "denominationSubstance": "HYDROXYZINE (DICHLORHYDRATE DE)",
+      "dosageSubstance": "25 mg",
+      "interactions": [
+        {
+          "id": "1772",
+          "idFamille1": "340",
+          "famille1": "médicaments susceptibles de donner des torsades de pointes",
+          "idFamille2": "134",
+          "famille2": "clarithromycine"
+        },
+        {
+          "id": "1776",
+          "idFamille1": "340",
+          "famille1": "médicaments susceptibles de donner des torsades de pointes",
+          "idFamille2": "344",
+          "famille2": "methadone"
+        },
+        {
+          "id": "1773",
+          "idFamille1": "340",
+          "famille1": "médicaments susceptibles de donner des torsades de pointes",
+          "idFamille2": "270",
+          "famille2": "hydroxychloroquine"
+        }
+      ],
+      "fractionsTherapeutiques": []
+    }
+  ],
+  "fractionsTherapeutiques": []
   }
   ]
 }
