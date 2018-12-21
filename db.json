@@ -176,13 +176,6 @@
           "dosageSubstance": "25 mg",
           "interactions": [
             {
-              "id": "1772",
-              "idFamille1": "340",
-              "famille1": "médicaments susceptibles de donner des torsades de pointes",
-              "idFamille2": "134",
-              "famille2": "clarithromycine"
-            },
-            {
               "id": "1773",
               "idFamille1": "340",
               "famille1": "médicaments susceptibles de donner des torsades de pointes",
@@ -240,46 +233,6 @@
     "codeGroupe": "1199",
     "libelleGroupe": "HYDROXYZINE (CHLORHYDRATE D') 25 mg - ATARAX 25 mg, comprimé pelliculé sécable",
     "autresMedicamentsGroupe": [
-      {
-        "codeCIS": "60507271",
-        "denomination": "HYDROXYZINE ARROW 25 mg, comprimé pelliculé sécable",
-        "type": "GENERIQUE",
-        "prix": [
-          2.67
-        ]
-      },
-      {
-        "codeCIS": "67838085",
-        "denomination": "HYDROXYZINE BIOGARAN 25 mg, comprimé pelliculé sécable",
-        "type": "GENERIQUE",
-        "prix": [
-          2.67
-        ]
-      },
-      {
-        "codeCIS": "65717544",
-        "denomination": "HYDROXYZINE CRISTERS 25 mg, comprimé pelliculé sécable",
-        "type": "GENERIQUE",
-        "prix": [
-          2.67
-        ]
-      },
-      {
-        "codeCIS": "64715729",
-        "denomination": "HYDROXYZINE EG 25 mg, comprimé pelliculé sécable",
-        "type": "GENERIQUE",
-        "prix": [
-          2.67
-        ]
-      },
-      {
-        "codeCIS": "69638464",
-        "denomination": "HYDROXYZINE MYLAN 25 mg, comprimé pelliculé sécable",
-        "type": "GENERIQUE",
-        "prix": [
-          2.67
-        ]
-      },
       {
         "codeCIS": "65195879",
         "denomination": "HYDROXYZINE SANDOZ 25 mg, comprimé pelliculé sécable",
@@ -342,42 +295,13 @@
       "denomination": "HYDROXYZINE ZENTIVA 25 mg, comprimé pelliculé sécable"
     }
   ],
-  "interactions": [
-    {
-      "id": "1781",
-      "idFamille1": "340",
-      "famille1": "médicaments susceptibles de donner des torsades de pointes",
-      "idFamille2": "519",
-      "famille2": "torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)"
-    },
-    {
-      "id": "2604",
-      "idFamille1": "519",
-      "famille1": "torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)",
-      "idFamille2": "340",
-      "famille2": "médicaments susceptibles de donner des torsades de pointes"
-    }
-  ],
+  "interactions": [],
   "substancesActives": [
     {
       "codeSubstance": "02087",
       "denominationSubstance": "HYDROXYZINE (DICHLORHYDRATE DE)",
       "dosageSubstance": "25 mg",
       "interactions": [
-        {
-          "id": "1772",
-          "idFamille1": "340",
-          "famille1": "médicaments susceptibles de donner des torsades de pointes",
-          "idFamille2": "134",
-          "famille2": "clarithromycine"
-        },
-        {
-          "id": "1776",
-          "idFamille1": "340",
-          "famille1": "médicaments susceptibles de donner des torsades de pointes",
-          "idFamille2": "344",
-          "famille2": "methadone"
-        },
         {
           "id": "1773",
           "idFamille1": "340",
