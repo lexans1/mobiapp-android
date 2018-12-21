@@ -51,15 +51,7 @@
             "codeSubstance": "02202",
             "denominationSubstance": "PARACÉTAMOL",
             "dosageSubstance": "300 mg",
-            "interactions": [
-              {
-                "id": "2027",
-                "idFamille1": "397",
-                "famille1": "paracetamol",
-                "idFamille2": "74",
-                "famille2": "antivitamines k"
-              }
-            ],
+            "interactions": [],
             "fractionsTherapeutiques": []
           }
         ]
@@ -89,29 +81,13 @@
         "denomination": "ACTRON, comprimé effervescent"
       }
     ],
-    "interactions": [
-      {
-        "id": "2027",
-        "idFamille1": "397",
-        "famille1": "paracetamol",
-        "idFamille2": "74",
-        "famille2": "antivitamines k"
-      }
-    ],
+    "interactions": [],
     "substancesActives": [
       {
         "codeSubstance": "02202",
         "denominationSubstance": "PARACÉTAMOL",
         "dosageSubstance": "300 mg",
-        "interactions": [
-          {
-            "id": "2027",
-            "idFamille1": "397",
-            "famille1": "paracetamol",
-            "idFamille2": "74",
-            "famille2": "antivitamines k"
-          }
-        ],
+        "interactions": [],
         "fractionsTherapeutiques": []
       }
     ],
@@ -162,15 +138,7 @@
           "codeSubstance": "02087",
           "denominationSubstance": "HYDROXYZINE (DICHLORHYDRATE DE)",
           "dosageSubstance": "25 mg",
-          "interactions": [
-            {
-              "id": "1773",
-              "idFamille1": "340",
-              "famille1": "médicaments susceptibles de donner des torsades de pointes",
-              "idFamille2": "270",
-              "famille2": "hydroxychloroquine"
-            }
-          ],
+          "interactions": [],
           "fractionsTherapeutiques": []
         }
       ]
@@ -261,15 +229,7 @@
       "codeSubstance": "02087",
       "denominationSubstance": "HYDROXYZINE (DICHLORHYDRATE DE)",
       "dosageSubstance": "25 mg",
-      "interactions": [
-        {
-          "id": "1773",
-          "idFamille1": "340",
-          "famille1": "médicaments susceptibles de donner des torsades de pointes",
-          "idFamille2": "270",
-          "famille2": "hydroxychloroquine"
-        }
-      ],
+      "interactions": [],
       "fractionsTherapeutiques": []
     }
   ],
