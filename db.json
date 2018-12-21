@@ -178,14 +178,6 @@
   ],
   "avisSMR": [
     {
-      "codeDossierHAS": "CT-4129",
-      "motifEvaluation": "Extension d'indication",
-      "dateAvisCommissionTransparence": "2007-05-09",
-      "valeurSMR": "Faible",
-      "libelleSMR": "Le service médical rendu par Atarax est faible dans l’extension d’indication : Chez l’enfant de plus de 3 ans, traitement de deuxième intention des insomnies d’endormissement liées à un état d’hyper-éveil (vigilance accrue liée à des manifestations anxieuses au coucher), après échec des mesures comportementales seules.",
-      "urlHAS": "http://www.has-sante.fr/portail/jcms/c_538431"
-    },
-    {
       "codeDossierHAS": "CT-3264",
       "motifEvaluation": "Renouvellement d'inscription (CT)",
       "dateAvisCommissionTransparence": "2007-01-17",
@@ -240,12 +232,6 @@
     ]
   },
   "infosImportantes": [
-    {
-      "dateDebut": "2015-02-18",
-      "dateFin": "2016-08-18",
-      "infoURL": "http://ansm.sante.fr/S-informer/Travaux-de-l-Agence-Europeenne-des-Medicaments-EMA-Comite-pour-l-evaluation-des-risques-en-matiere-de-pharmacovigilance-PRAC/Reevaluation-des-medicaments-a-base-d-hydroxyzine-et-des-medicaments-a-base-de-codeine-utilises-chez-l-enfant-retour-d-information-sur-le-PRAC-de-fevrier-2015-Point-d-information",
-      "infoLibelle": "Réévaluation des médicaments à base d’hydroxyzine et des médicaments à base de codéine utilisés chez l’enfant, retour d’information sur le PRAC de février 2015 - Point d'information"
-    },
     {
       "dateDebut": "2014-05-19",
       "dateFin": "2017-04-20",
